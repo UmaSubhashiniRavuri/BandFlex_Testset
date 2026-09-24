@@ -1,0 +1,261 @@
+codec_combo,file_name,codec1_codec,codec1_mp3_bitrate,codec2_codec,codec2_aac_bitrate,codec1_gsm_bitrate,codec1_highpass_filter,codec2_bitrate,codec1_aac_bitrate,codec2_mp3_bitrate,codec2_highpass_filter,codec1_bitrate,codec2_gsm_bitrate,codec1_opus_bitrate,codec2_opus_bitrate
+MP3-AAC,p272_192.wav,MP3,40k,AAC,64k,,,,,,,,,,
+GSM-MULAW,p323_290.wav,GSM,,MULAW,,13.2k,"{'cutoff_freq': 20, 'order': 2}",64k,,,,,,,
+AAC-MP3,p364_126.wav,AAC,,MP3,,,,,80k,32k,,,,,
+MP3-ALAW,p326_313.wav,MP3,8k,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+AAC-MP3,p255_319.wav,AAC,,MP3,,,,,40k,48k,,,,,
+GSM-ALAW,p316_293.wav,GSM,,ALAW,,13.2k,"{'cutoff_freq': 20, 'order': 2}",64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+GSM-MULAW,p284_202.wav,GSM,,MULAW,,13k,"{'cutoff_freq': 20, 'order': 2}",64k,,,,,,,
+MULAW-ALAW,p335_261.wav,MULAW,,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,
+ALAW-AAC,p333_012.wav,ALAW,,AAC,48k,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,
+MULAW-GSM,p234_135.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+MULAW-MP3,p326_307.wav,MULAW,,MP3,,,,,,80k,,64k,,,
+OPUS-GSM,p234_171.wav,OPUS,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13k,16k,
+AAC-MULAW,p234_260.wav,AAC,,MULAW,,,,64k,48k,,,,,,
+GSM-MP3,p299_066.wav,GSM,,MP3,,13.2k,"{'cutoff_freq': 20, 'order': 2}",,,16k,,,,,
+ALAW-MP3,p323_084.wav,ALAW,,MP3,,,"{'cutoff_freq': 20, 'order': 2}",,,64k,,64k,,,
+AAC-MULAW,p295_077.wav,AAC,,MULAW,,,,64k,56k,,,,,,
+MP3-GSM,p249_110.wav,MP3,40k,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13k,,
+AAC-MULAW,p341_337.wav,AAC,,MULAW,,,,64k,96k,,,,,,
+AAC-OPUS,p255_029.wav,AAC,,OPUS,,,,,64k,,,,,,5k
+GSM-MULAW,p302_008.wav,GSM,,MULAW,,13k,"{'cutoff_freq': 20, 'order': 2}",64k,,,,,,,
+OPUS-MULAW,p301_311.wav,OPUS,,MULAW,,,,64k,,,,,,64k,
+AAC-GSM,p241_327.wav,AAC,,GSM,,,,,48k,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,,
+GSM-ALAW,p363_159.wav,GSM,,ALAW,,13k,"{'cutoff_freq': 20, 'order': 2}",64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+MULAW-MP3,p302_289.wav,MULAW,,MP3,,,,,,40k,,64k,,,
+AAC-OPUS,p305_396.wav,AAC,,OPUS,,,,,40k,,,,,,24k
+MP3-OPUS,p285_135.wav,MP3,80k,OPUS,,,,,,,,,,,5k
+MP3-OPUS,p275_020.wav,MP3,80k,OPUS,,,,,,,,,,,24k
+AAC-OPUS,p361_001.wav,AAC,,OPUS,,,,,56k,,,,,,5k
+MULAW-ALAW,p249_281.wav,MULAW,,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,
+MP3-OPUS,p363_219.wav,MP3,64k,OPUS,,,,,,,,,,,32k
+ALAW-OPUS,p312_072.wav,ALAW,,OPUS,,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,16k
+ALAW-MP3,p326_085.wav,ALAW,,MP3,,,"{'cutoff_freq': 20, 'order': 2}",,,24k,,64k,,,
+MULAW-OPUS,p299_081.wav,MULAW,,OPUS,,,,,,,,64k,,,16k
+AAC-GSM,p299_051.wav,AAC,,GSM,,,,,56k,,"{'cutoff_freq': 20, 'order': 2}",,13k,,
+GSM-OPUS,p275_214.wav,GSM,,OPUS,,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,96k
+MP3-AAC,p295_035.wav,MP3,48k,AAC,48k,,,,,,,,,,
+ALAW-GSM,p264_287.wav,ALAW,,GSM,,,"{'cutoff_freq': 20, 'order': 2}",,,,"{'cutoff_freq': 20, 'order': 2}",64k,13k,,
+GSM-MULAW,p241_312.wav,GSM,,MULAW,,13.2k,"{'cutoff_freq': 20, 'order': 2}",64k,,,,,,,
+MP3-OPUS,p275_095.wav,MP3,96k,OPUS,,,,,,,,,,,64k
+MP3-ALAW,p255_322.wav,MP3,24k,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+GSM-MULAW,p295_005.wav,GSM,,MULAW,,13k,"{'cutoff_freq': 20, 'order': 2}",64k,,,,,,,
+OPUS-MP3,p241_171.wav,OPUS,,MP3,,,,,,48k,,,,24k,
+ALAW-AAC,p323_156.wav,ALAW,,AAC,40k,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,
+ALAW-GSM,p249_013.wav,ALAW,,GSM,,,"{'cutoff_freq': 20, 'order': 2}",,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+MP3-MULAW,p237_301.wav,MP3,48k,MULAW,,,,64k,,,,,,,
+MP3-MULAW,p272_152.wav,MP3,64k,MULAW,,,,64k,,,,,,,
+MP3-OPUS,p255_246.wav,MP3,40k,OPUS,,,,,,,,,,,24k
+OPUS-ALAW,p234_334.wav,OPUS,,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",,,32k,
+MULAW-GSM,p316_147.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+MULAW-ALAW,p302_306.wav,MULAW,,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,
+AAC-MP3,p305_237.wav,AAC,,MP3,,,,,48k,16k,,,,,
+GSM-AAC,p234_152.wav,GSM,,AAC,96k,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,
+OPUS-AAC,p285_260.wav,OPUS,,AAC,32k,,,,,,,,,5k,
+MP3-GSM,p316_019.wav,MP3,80k,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,,
+OPUS-MP3,p326_352.wav,OPUS,,MP3,,,,,,24k,,,,96k,
+MULAW-GSM,p241_328.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+MULAW-GSM,p323_086.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+MP3-MULAW,p251_120.wav,MP3,96k,MULAW,,,,64k,,,,,,,
+AAC-OPUS,p275_106.wav,AAC,,OPUS,,,,,40k,,,,,,32k
+AAC-OPUS,p326_362.wav,AAC,,OPUS,,,,,32k,,,,,,64k
+AAC-MP3,p299_061.wav,AAC,,MP3,,,,,48k,80k,,,,,
+GSM-OPUS,p333_175.wav,GSM,,OPUS,,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,32k
+MP3-OPUS,p255_119.wav,MP3,32k,OPUS,,,,,,,,,,,5k
+MULAW-AAC,p241_090.wav,MULAW,,AAC,96k,,,,,,,64k,,,
+GSM-MP3,p333_182.wav,GSM,,MP3,,13k,"{'cutoff_freq': 20, 'order': 2}",,,24k,,,,,
+ALAW-AAC,p326_105.wav,ALAW,,AAC,32k,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,
+ALAW-GSM,p335_357.wav,ALAW,,GSM,,,"{'cutoff_freq': 20, 'order': 2}",,,,"{'cutoff_freq': 20, 'order': 2}",64k,13k,,
+AAC-MP3,p312_358.wav,AAC,,MP3,,,,,32k,64k,,,,,
+ALAW-OPUS,p234_017.wav,ALAW,,OPUS,,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,16k
+MULAW-GSM,p335_410.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13k,,
+MULAW-AAC,p237_287.wav,MULAW,,AAC,32k,,,,,,,64k,,,
+MP3-GSM,p237_154.wav,MP3,32k,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13k,,
+GSM-OPUS,p335_350.wav,GSM,,OPUS,,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,5k
+GSM-AAC,p341_125.wav,GSM,,AAC,32k,13.2k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,
+MP3-ALAW,p336_236.wav,MP3,40k,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+MULAW-ALAW,p335_165.wav,MULAW,,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,
+MP3-GSM,p361_177.wav,MP3,16k,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,,
+MULAW-OPUS,p335_197.wav,MULAW,,OPUS,,,,,,,,64k,,,16k
+OPUS-GSM,p305_038.wav,OPUS,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,64k,
+AAC-OPUS,p316_155.wav,AAC,,OPUS,,,,,96k,,,,,,5k
+MULAW-GSM,p249_267.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+AAC-MP3,p316_134.wav,AAC,,MP3,,,,,80k,48k,,,,,
+AAC-MP3,p249_081.wav,AAC,,MP3,,,,,48k,96k,,,,,
+AAC-OPUS,p301_122.wav,AAC,,OPUS,,,,,32k,,,,,,64k
+AAC-MP3,p363_036.wav,AAC,,MP3,,,,,40k,40k,,,,,
+MP3-AAC,p299_063.wav,MP3,40k,AAC,80k,,,,,,,,,,
+GSM-ALAW,p333_229.wav,GSM,,ALAW,,13.2k,"{'cutoff_freq': 20, 'order': 2}",64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+AAC-ALAW,p302_101.wav,AAC,,ALAW,,,,64k,80k,,"{'cutoff_freq': 20, 'order': 2}",,,,
+GSM-AAC,p326_014.wav,GSM,,AAC,80k,13.2k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,
+OPUS-ALAW,p284_291.wav,OPUS,,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",,,32k,
+MULAW-ALAW,p241_297.wav,MULAW,,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,
+ALAW-OPUS,p299_128.wav,ALAW,,OPUS,,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,8k
+GSM-OPUS,p284_032.wav,GSM,,OPUS,,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,24k
+ALAW-MP3,p264_171.wav,ALAW,,MP3,,,"{'cutoff_freq': 20, 'order': 2}",,,32k,,64k,,,
+OPUS-AAC,p295_017.wav,OPUS,,AAC,64k,,,,,,,,,5k,
+MP3-ALAW,p364_150.wav,MP3,24k,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+MULAW-MP3,p285_122.wav,MULAW,,MP3,,,,,,40k,,64k,,,
+GSM-OPUS,p323_366.wav,GSM,,OPUS,,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,5k
+MP3-GSM,p264_279.wav,MP3,64k,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,,
+GSM-MP3,p333_176.wav,GSM,,MP3,,13.2k,"{'cutoff_freq': 20, 'order': 2}",,,40k,,,,,
+ALAW-GSM,p335_224.wav,ALAW,,GSM,,,"{'cutoff_freq': 20, 'order': 2}",,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+MULAW-GSM,p299_270.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13k,,
+OPUS-GSM,p305_130.wav,OPUS,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13k,32k,
+AAC-MP3,p234_022.wav,AAC,,MP3,,,,,96k,48k,,,,,
+OPUS-GSM,p255_066.wav,OPUS,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,96k,
+GSM-ALAW,p237_350.wav,GSM,,ALAW,,13.2k,"{'cutoff_freq': 20, 'order': 2}",64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+ALAW-GSM,p323_269.wav,ALAW,,GSM,,,"{'cutoff_freq': 20, 'order': 2}",,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+GSM-ALAW,p302_291.wav,GSM,,ALAW,,13.2k,"{'cutoff_freq': 20, 'order': 2}",64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+MULAW-OPUS,p347_229.wav,MULAW,,OPUS,,,,,,,,64k,,,32k
+AAC-GSM,p275_336.wav,AAC,,GSM,,,,,56k,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,,
+ALAW-MULAW,p234_118.wav,ALAW,,MULAW,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,,64k,,,
+OPUS-MP3,p335_215.wav,OPUS,,MP3,,,,,,48k,,,,32k,
+OPUS-MULAW,p241_144.wav,OPUS,,MULAW,,,,64k,,,,,,5k,
+OPUS-MULAW,p251_218.wav,OPUS,,MULAW,,,,64k,,,,,,8k,
+MULAW-GSM,p264_011.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13k,,
+AAC-OPUS,p312_115.wav,AAC,,OPUS,,,,,32k,,,,,,24k
+OPUS-GSM,p249_320.wav,OPUS,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13k,8k,
+OPUS-MP3,p285_118.wav,OPUS,,MP3,,,,,,80k,,,,24k,
+MULAW-ALAW,p364_233.wav,MULAW,,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,
+GSM-OPUS,p347_295.wav,GSM,,OPUS,,13.2k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,64k
+OPUS-ALAW,p335_399.wav,OPUS,,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",,,8k,
+MP3-GSM,p316_170.wav,MP3,40k,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,,
+AAC-MP3,p234_050.wav,AAC,,MP3,,,,,56k,16k,,,,,
+OPUS-MP3,p249_339.wav,OPUS,,MP3,,,,,,24k,,,,24k,
+GSM-AAC,p363_084.wav,GSM,,AAC,48k,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,
+ALAW-MP3,p333_190.wav,ALAW,,MP3,,,"{'cutoff_freq': 20, 'order': 2}",,,16k,,64k,,,
+GSM-OPUS,p241_196.wav,GSM,,OPUS,,13.2k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,24k
+GSM-ALAW,p341_293.wav,GSM,,ALAW,,13.2k,"{'cutoff_freq': 20, 'order': 2}",64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+AAC-OPUS,p341_384.wav,AAC,,OPUS,,,,,48k,,,,,,32k
+ALAW-AAC,p237_137.wav,ALAW,,AAC,32k,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,
+GSM-OPUS,p333_253.wav,GSM,,OPUS,,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,24k
+OPUS-AAC,p249_114.wav,OPUS,,AAC,40k,,,,,,,,,96k,
+MULAW-MP3,p361_225.wav,MULAW,,MP3,,,,,,8k,,64k,,,
+ALAW-OPUS,p363_123.wav,ALAW,,OPUS,,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,64k
+ALAW-OPUS,p341_352.wav,ALAW,,OPUS,,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,32k
+ALAW-MP3,p302_127.wav,ALAW,,MP3,,,"{'cutoff_freq': 20, 'order': 2}",,,64k,,64k,,,
+AAC-MULAW,p323_263.wav,AAC,,MULAW,,,,64k,80k,,,,,,
+AAC-ALAW,p284_069.wav,AAC,,ALAW,,,,64k,32k,,"{'cutoff_freq': 20, 'order': 2}",,,,
+MULAW-OPUS,p316_177.wav,MULAW,,OPUS,,,,,,,,64k,,,8k
+OPUS-GSM,p364_245.wav,OPUS,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13k,5k,
+ALAW-GSM,p251_248.wav,ALAW,,GSM,,,"{'cutoff_freq': 20, 'order': 2}",,,,"{'cutoff_freq': 20, 'order': 2}",64k,13k,,
+OPUS-AAC,p363_019.wav,OPUS,,AAC,32k,,,,,,,,,64k,
+ALAW-GSM,p347_087.wav,ALAW,,GSM,,,"{'cutoff_freq': 20, 'order': 2}",,,,"{'cutoff_freq': 20, 'order': 2}",64k,13k,,
+AAC-MP3,p284_157.wav,AAC,,MP3,,,,,56k,24k,,,,,
+OPUS-GSM,p341_390.wav,OPUS,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13k,16k,
+OPUS-ALAW,p333_102.wav,OPUS,,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",,,64k,
+GSM-ALAW,p272_018.wav,GSM,,ALAW,,13.2k,"{'cutoff_freq': 20, 'order': 2}",64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+MP3-MULAW,p333_316.wav,MP3,40k,MULAW,,,,64k,,,,,,,
+AAC-GSM,p237_195.wav,AAC,,GSM,,,,,64k,,"{'cutoff_freq': 20, 'order': 2}",,13k,,
+ALAW-MULAW,p284_367.wav,ALAW,,MULAW,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,,64k,,,
+GSM-MP3,p237_131.wav,GSM,,MP3,,13.2k,"{'cutoff_freq': 20, 'order': 2}",,,40k,,,,,
+MULAW-AAC,p249_231.wav,MULAW,,AAC,56k,,,,,,,64k,,,
+OPUS-MULAW,p272_014.wav,OPUS,,MULAW,,,,64k,,,,,,8k,
+MULAW-MP3,p249_303.wav,MULAW,,MP3,,,,,,64k,,64k,,,
+MP3-MULAW,p363_140.wav,MP3,16k,MULAW,,,,64k,,,,,,,
+GSM-ALAW,p301_207.wav,GSM,,ALAW,,13.2k,"{'cutoff_freq': 20, 'order': 2}",64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+MP3-OPUS,p326_247.wav,MP3,64k,OPUS,,,,,,,,,,,32k
+OPUS-MULAW,p255_107.wav,OPUS,,MULAW,,,,64k,,,,,,24k,
+AAC-MULAW,p301_077.wav,AAC,,MULAW,,,,64k,80k,,,,,,
+MP3-ALAW,p237_008.wav,MP3,40k,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+MULAW-GSM,p341_024.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+ALAW-GSM,p301_254.wav,ALAW,,GSM,,,"{'cutoff_freq': 20, 'order': 2}",,,,"{'cutoff_freq': 20, 'order': 2}",64k,13k,,
+OPUS-AAC,p284_234.wav,OPUS,,AAC,56k,,,,,,,,,32k,
+ALAW-AAC,p335_069.wav,ALAW,,AAC,40k,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,
+ALAW-OPUS,p302_085.wav,ALAW,,OPUS,,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,16k
+MULAW-AAC,p264_196.wav,MULAW,,AAC,32k,,,,,,,64k,,,
+GSM-ALAW,p295_007.wav,GSM,,ALAW,,13.2k,"{'cutoff_freq': 20, 'order': 2}",64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+MULAW-MP3,p255_195.wav,MULAW,,MP3,,,,,,16k,,64k,,,
+ALAW-GSM,p264_178.wav,ALAW,,GSM,,,"{'cutoff_freq': 20, 'order': 2}",,,,"{'cutoff_freq': 20, 'order': 2}",64k,13k,,
+OPUS-MULAW,p251_258.wav,OPUS,,MULAW,,,,64k,,,,,,5k,
+ALAW-MULAW,p323_019.wav,ALAW,,MULAW,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,,64k,,,
+OPUS-AAC,p335_375.wav,OPUS,,AAC,80k,,,,,,,,,96k,
+AAC-GSM,p336_007.wav,AAC,,GSM,,,,,48k,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,,
+AAC-MULAW,p341_266.wav,AAC,,MULAW,,,,64k,64k,,,,,,
+ALAW-OPUS,p341_006.wav,ALAW,,OPUS,,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,96k
+MULAW-GSM,p363_103.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13k,,
+OPUS-ALAW,p264_104.wav,OPUS,,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",,,96k,
+ALAW-MULAW,p361_229.wav,ALAW,,MULAW,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,,64k,,,
+MP3-MULAW,p295_199.wav,MP3,8k,MULAW,,,,64k,,,,,,,
+AAC-GSM,p364_035.wav,AAC,,GSM,,,,,56k,,"{'cutoff_freq': 20, 'order': 2}",,13k,,
+OPUS-GSM,p249_241.wav,OPUS,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,5k,
+GSM-OPUS,p251_296.wav,GSM,,OPUS,,13.2k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,16k
+ALAW-GSM,p323_264.wav,ALAW,,GSM,,,"{'cutoff_freq': 20, 'order': 2}",,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+MULAW-GSM,p299_253.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+MP3-OPUS,p237_177.wav,MP3,16k,OPUS,,,,,,,,,,,8k
+ALAW-AAC,p237_263.wav,ALAW,,AAC,48k,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,
+OPUS-MP3,p361_246.wav,OPUS,,MP3,,,,,,24k,,,,8k,
+MULAW-OPUS,p335_395.wav,MULAW,,OPUS,,,,,,,,64k,,,8k
+MP3-ALAW,p285_187.wav,MP3,48k,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+ALAW-GSM,p275_405.wav,ALAW,,GSM,,,"{'cutoff_freq': 20, 'order': 2}",,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+OPUS-MP3,p323_023.wav,OPUS,,MP3,,,,,,24k,,,,8k,
+GSM-AAC,p301_391.wav,GSM,,AAC,64k,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,
+GSM-MP3,p275_294.wav,GSM,,MP3,,13k,"{'cutoff_freq': 20, 'order': 2}",,,24k,,,,,
+AAC-MULAW,p285_114.wav,AAC,,MULAW,,,,64k,96k,,,,,,
+GSM-MULAW,p323_191.wav,GSM,,MULAW,,13.2k,"{'cutoff_freq': 20, 'order': 2}",64k,,,,,,,
+AAC-GSM,p255_268.wav,AAC,,GSM,,,,,64k,,"{'cutoff_freq': 20, 'order': 2}",,13k,,
+ALAW-MULAW,p361_092.wav,ALAW,,MULAW,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,,64k,,,
+AAC-OPUS,p335_157.wav,AAC,,OPUS,,,,,96k,,,,,,96k
+AAC-GSM,p237_021.wav,AAC,,GSM,,,,,64k,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,,
+OPUS-GSM,p361_150.wav,OPUS,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13k,64k,
+MULAW-GSM,p272_120.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+MULAW-AAC,p255_106.wav,MULAW,,AAC,32k,,,,,,,64k,,,
+ALAW-OPUS,p316_352.wav,ALAW,,OPUS,,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,16k
+AAC-MP3,p341_044.wav,AAC,,MP3,,,,,40k,40k,,,,,
+AAC-OPUS,p264_421.wav,AAC,,OPUS,,,,,40k,,,,,,16k
+OPUS-GSM,p302_187.wav,OPUS,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,32k,
+GSM-ALAW,p255_028.wav,GSM,,ALAW,,13k,"{'cutoff_freq': 20, 'order': 2}",64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+GSM-ALAW,p241_140.wav,GSM,,ALAW,,13k,"{'cutoff_freq': 20, 'order': 2}",64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+GSM-MP3,p251_247.wav,GSM,,MP3,,13.2k,"{'cutoff_freq': 20, 'order': 2}",,,40k,,,,,
+OPUS-MP3,p336_120.wav,OPUS,,MP3,,,,,,64k,,,,8k,
+MP3-GSM,p323_411.wav,MP3,8k,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,,
+ALAW-MULAW,p272_160.wav,ALAW,,MULAW,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,,64k,,,
+ALAW-MP3,p275_143.wav,ALAW,,MP3,,,"{'cutoff_freq': 20, 'order': 2}",,,80k,,64k,,,
+OPUS-ALAW,p255_130.wav,OPUS,,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",,,5k,
+ALAW-MP3,p361_387.wav,ALAW,,MP3,,,"{'cutoff_freq': 20, 'order': 2}",,,48k,,64k,,,
+OPUS-MP3,p234_193.wav,OPUS,,MP3,,,,,,8k,,,,16k,
+MP3-GSM,p333_188.wav,MP3,8k,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,,
+MP3-ALAW,p284_079.wav,MP3,24k,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+AAC-GSM,p275_166.wav,AAC,,GSM,,,,,56k,,"{'cutoff_freq': 20, 'order': 2}",,13k,,
+ALAW-MULAW,p316_272.wav,ALAW,,MULAW,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,,64k,,,
+GSM-AAC,p251_059.wav,GSM,,AAC,64k,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,
+OPUS-GSM,p285_214.wav,OPUS,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,8k,
+AAC-ALAW,p264_046.wav,AAC,,ALAW,,,,64k,56k,,"{'cutoff_freq': 20, 'order': 2}",,,,
+MULAW-GSM,p326_122.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+MULAW-AAC,p361_404.wav,MULAW,,AAC,40k,,,,,,,64k,,,
+ALAW-AAC,p335_307.wav,ALAW,,AAC,32k,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,
+MP3-AAC,p275_295.wav,MP3,8k,AAC,40k,,,,,,,,,,
+MULAW-AAC,p234_142.wav,MULAW,,AAC,32k,,,,,,,64k,,,
+MULAW-ALAW,p363_027.wav,MULAW,,ALAW,,,,64k,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,
+OPUS-AAC,p364_185.wav,OPUS,,AAC,40k,,,,,,,,,16k,
+AAC-OPUS,p316_165.wav,AAC,,OPUS,,,,,48k,,,,,,64k
+AAC-OPUS,p361_155.wav,AAC,,OPUS,,,,,80k,,,,,,32k
+GSM-OPUS,p302_251.wav,GSM,,OPUS,,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,24k
+ALAW-OPUS,p251_241.wav,ALAW,,OPUS,,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,16k
+MULAW-GSM,p255_205.wav,MULAW,,GSM,,,,,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+MULAW-AAC,p361_403.wav,MULAW,,AAC,56k,,,,,,,64k,,,
+GSM-OPUS,p323_356.wav,GSM,,OPUS,,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,16k
+OPUS-AAC,p323_135.wav,OPUS,,AAC,32k,,,,,,,,,8k,
+AAC-OPUS,p234_169.wav,AAC,,OPUS,,,,,80k,,,,,,8k
+GSM-AAC,p251_243.wav,GSM,,AAC,64k,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,
+ALAW-AAC,p237_180.wav,ALAW,,AAC,64k,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,
+ALAW-AAC,p284_269.wav,ALAW,,AAC,40k,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,
+ALAW-GSM,p335_123.wav,ALAW,,GSM,,,"{'cutoff_freq': 20, 'order': 2}",,,,"{'cutoff_freq': 20, 'order': 2}",64k,13k,,
+AAC-GSM,p241_248.wav,AAC,,GSM,,,,,80k,,"{'cutoff_freq': 20, 'order': 2}",,13.2k,,
+AAC-ALAW,p316_115.wav,AAC,,ALAW,,,,64k,96k,,"{'cutoff_freq': 20, 'order': 2}",,,,
+ALAW-AAC,p305_242.wav,ALAW,,AAC,64k,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,
+MP3-OPUS,p264_347.wav,MP3,32k,OPUS,,,,,,,,,,,32k
+GSM-AAC,p361_239.wav,GSM,,AAC,48k,13k,"{'cutoff_freq': 20, 'order': 2}",,,,,,,,
+ALAW-GSM,p305_012.wav,ALAW,,GSM,,,"{'cutoff_freq': 20, 'order': 2}",,,,"{'cutoff_freq': 20, 'order': 2}",64k,13.2k,,
+AAC-MP3,p272_274.wav,AAC,,MP3,,,,,48k,16k,,,,,
+AAC-OPUS,p255_060.wav,AAC,,OPUS,,,,,40k,,,,,,5k
+ALAW-OPUS,p295_175.wav,ALAW,,OPUS,,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,16k
+ALAW-MULAW,p361_347.wav,ALAW,,MULAW,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,,64k,,,
+AAC-MP3,p305_117.wav,AAC,,MP3,,,,,96k,64k,,,,,
+MP3-AAC,p305_181.wav,MP3,32k,AAC,40k,,,,,,,,,,
+AAC-OPUS,p341_132.wav,AAC,,OPUS,,,,,40k,,,,,,32k
+GSM-ALAW,p284_160.wav,GSM,,ALAW,,13k,"{'cutoff_freq': 20, 'order': 2}",64k,,,"{'cutoff_freq': 20, 'order': 2}",,,,
+ALAW-MULAW,p302_198.wav,ALAW,,MULAW,,,"{'cutoff_freq': 20, 'order': 2}",64k,,,,64k,,,
+ALAW-OPUS,p341_327.wav,ALAW,,OPUS,,,"{'cutoff_freq': 20, 'order': 2}",,,,,64k,,,8k
+GSM-MP3,p234_346.wav,GSM,,MP3,,13k,"{'cutoff_freq': 20, 'order': 2}",,,40k,,,,,
