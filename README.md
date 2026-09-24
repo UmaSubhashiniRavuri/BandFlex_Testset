@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # BandFlex Testset
 
 Test sets for BandFlex bandwidth extension, built from VCTK and Expresso.
